@@ -23,7 +23,7 @@ while(producto != 4){
             break;
         }
     producto = prompt("Ingresá el numero de algun producto  \n1. Camisa Nike Oversize  \n2. Zapatillas Adidas  \n3. Reloj Tucci  \n4. Terminar")
-    }
+}
 }
 saludar()
 carro()
