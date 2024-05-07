@@ -4,7 +4,8 @@ function saludar(){
 }
 function carro(){
 let producto = prompt("Ingresá el número de algun producto  \n1. Camisa Nike Oversize  \n2. Zapatillas Adidas  \n3. Reloj Tucci  \n4. Terminar");
-    while(producto != 4){
+    
+while(producto != 4){
         switch(producto){
             case "1":
                 alert("Agregaste una camisa al carrito de compra");
